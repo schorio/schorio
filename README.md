@@ -55,13 +55,13 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
+  <a href="https://www.apachefriends.org/" target="_blank">
     <img src="https://img.shields.io/badge/xampp-000000.svg?style=for-the-badge&logo=xampp&logoColor=white" alt="jetbrains" />
   </a>
-  <a href="https://postman.com" target="_blank"> 
+  <a href="https://developer.android.com" target="_blank"> 
     <img src="https://img.shields.io/badge/androidstudio-green.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="postman"/>
   </a>
-  <a href="https://www.virtualbox.org/" target="_blank">
+  <a href="https://www.google.fr/intl/fr/chrome/" target="_blank">
     <img src="https://img.shields.io/badge/googlechrome-183A61.svg?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="virtualbox"/>
   </a>
