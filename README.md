@@ -1,5 +1,13 @@
 <h1 align="center">Hi, I'm Schorio <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/schorio.svg?style=social&label=Followers)](https://github.com/schorio?tab=followers)
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=De+karakory+ma+zany;Ino+feeling;Ino+passe" alt="Headline" />
+
+  
+</div>
 
 <div>
   <samp>
@@ -21,7 +29,7 @@
 
 
 <br>
-<h2 align="center">My Skills</h2>
+<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> My Skills</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
@@ -34,7 +42,6 @@
 
 <p align="center">
   <a href="https://github.com/schorio/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=schorio&show_icons=true&theme=radical&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=schorio&theme=radical&hide_border=true" />
   </a>
 </p>
