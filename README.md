@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
+    <img src="https://img.shields.io/badge/xampp-000000.svg?style=for-the-badge&logo=xampp&logoColor=white" alt="jetbrains" />
   </a>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/androidstudio-green.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="postman"/>
