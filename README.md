@@ -1,12 +1,28 @@
-- 👋 Hi, I’m Schorio
-- 👀 I’m interested in dev mobile
-- 🌱 I’m currently learning Flutter/Dart
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [![facebook Badge](https://img.shields.io/badge/facebook-Profile-informational?style=flat&logo=facebook&logoColor=blue&color=1CA2F1)](https://www.facebook.com/schoriio)
+<h1 align="center">Hi, I'm Schorio <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
+
+
+<div>
+  <samp>
+    <h3 align="center">you can reach me by:</h3>
+    <p align="center">
+      <a href="https://fb.com/schoriio" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://instagram.com/_offbadz" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:schorioignace@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  </samp>
+</div>
+
+
 
 <br>
-<h2> 🚀 &nbsp;My Skills</h2>
-<p align="left">
+<h2 align="center">My Skills</h2>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
@@ -16,8 +32,12 @@
 </p>
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schorio&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schorio&layout=compact&theme=radical)](https://github.com/schorio/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/schorio/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=schorio&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=schorio&theme=radical&hide_border=true" />
+  </a>
+</p>
 
 
 <!---
