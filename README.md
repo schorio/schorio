@@ -68,7 +68,10 @@
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
-</p>
+</p><br><br>
+
+
+[![@schorio's Holopin board](https://holopin.io/api/user/board?user=schorio)](https://holopin.io/@schorio)
 
 
 <!---
