@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/schorio/">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=schorio&theme=radical&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=schorio&theme=radical&hide_border=true" />
   </a>
 </p><br>
 
