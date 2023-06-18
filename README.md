@@ -4,7 +4,7 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/schorio.svg?style=social&label=Followers)](https://github.com/schorio?tab=followers)
 
-<br><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=De+karakory+ma+zany;Ino+feeling;Ino+passe" alt="Headline" />
+<br><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=De+karakory+ma+zany;Welcome+to+the+Dart+Side;Backend+developper" alt="Headline" />
 
   
 </div>
