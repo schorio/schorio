@@ -61,15 +61,8 @@
   <a href="https://www.apachefriends.org/" target="_blank">
     <img src="https://img.shields.io/badge/xampp-000000.svg?style=for-the-badge&logo=xampp&logoColor=white" alt="jetbrains" />
   </a>
-  <a href="https://developer.android.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/androidstudio-green.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="postman"/>
-  </a>
-  <a href="https://www.google.fr/intl/fr/chrome/" target="_blank">
-    <img src="https://img.shields.io/badge/googlechrome-183A61.svg?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="virtualbox"/>
-  </a>
   <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+    <img src="https://img.shields.io/badge/debian-E95420.svg?style=for-the-badge&logo=debian&logoColor=white" alt="debian"/>
   </a>
 </p><br><br>
 
