@@ -13,10 +13,10 @@
   <samp>
     <h3 align="center">you can reach me by:</h3>
     <p align="center">
-      <a href="https://fb.com/schoriio" target="blank"><img align="center"
+      <a href="https://www.facebook.com/schoriio" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://instagram.com/_offbadz" target="blank"><img align="center"
+      <a href="https://instagram.com/__offbadz" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="mailto:schorioignace@gmail.com" target="blank"><img align="center"
